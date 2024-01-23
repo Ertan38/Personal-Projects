@@ -1,0 +1,29 @@
+.movie-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    background: #6d7476;
+  }
+  
+  .movie-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .movie-details {
+    padding: 10px;
+  }
+  
+  .movie-details h2 {
+    font-size: 18px;
+    margin: 0;
+    font-family: 'Roboto';
+  }
+  
+  .movie-details p {
+    font-size: 14px;
+    margin: 5px 0;
+    font-family: 'Roboto';
+  }
+  
